@@ -15,7 +15,7 @@ const App = () => (
     <div>
         <h1>Welcome to my Dice Game!</h1>
         <DiceBag 
-            label="Wes' Dice"
+            label="Dice"
         />
         {/* <DiceBag
             label="Mike's Dice" 
